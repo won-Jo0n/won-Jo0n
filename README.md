@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!-- 간단한 인사말 -->
 
-### 👋 Hi there! I'm **HaMin Lee**
+### 👋 Hi there! I'm **wonJoon**
 
-신입 Full Stack Developer 이하민입니다! 😘
+신입 Full Stack Developer 지원준입니다! 😘
 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 사용자 중심의 개발과 문제 해결을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
