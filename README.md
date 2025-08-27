@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
-- ✉️ Email : your_email@example.com
+- ✉️ Email : jee5281@gmail.com
 
 ---
 
