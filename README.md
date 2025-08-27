@@ -63,9 +63,8 @@ Here are some ideas to get you started:
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **moim**                   | MBTI 기반 동네 친구 찾기 & 모임 매칭 플랫폼                  | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **해봐 YOU**               | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                     | HTML, CSS, jQuery, Bootstrap       |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                            | Spring MVC, JSP, MySQL             |
+| 🛡️ **moim**                   | MBTI 기반 동네 친구 찾기 & 모임 매칭 플랫폼                  | Java, SpringFramework, MySQL, MyBatis, JSP, CSS, JS, WebSocket |
+| 🌐 **해봐 YOU**               | 고령층을 대상으로 한 디지털 교육 플랫폼                      | HTML, CSS, jQuery, React, WebStorage       |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
 👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
@@ -74,8 +73,6 @@ Here are some ideas to get you started:
 
 ### 📫 Contact
 
-- 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Notion Resume : [링크 넣기](#)
 - ✉️ Email : jee5281@gmail.com
 
 ---
