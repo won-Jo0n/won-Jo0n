@@ -66,9 +66,6 @@ Here are some ideas to get you started:
 | 🛡️ **moim**                   | MBTI 기반 동네 친구 찾기 & 모임 매칭 플랫폼                  | Java, SpringFramework, MySQL, MyBatis, JSP, CSS, JS, WebSocket |
 | 🌐 **해봐 YOU**               | 고령층을 대상으로 한 디지털 교육 플랫폼                      | HTML, CSS, jQuery, React, WebStorage       |
 
-👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
-
 ---
 
 ### 📫 Contact
