@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Anti-Scam Platform**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **K-Culture Travel Site**  | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                  | HTML, CSS, jQuery, Bootstrap       |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
+| 🛡️ **moim**                   | MBTI 기반 동네 친구 찾기 & 모임 매칭 플랫폼                  | Java, Spring, MySQL, JS, Bootstrap |
+| 🌐 **해봐 YOU**               | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                     | HTML, CSS, jQuery, Bootstrap       |
+| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                            | Spring MVC, JSP, MySQL             |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
 👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
